@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+  <rect width="1200" height="640" fill="#ffffff"/>
+
+  <text x="70" y="72" font-size="34" font-family="Arial, sans-serif" font-weight="700" fill="#111111">Git과 GitHub의 차이</text>
+  <text x="70" y="110" font-size="20" font-family="Arial, sans-serif" fill="#57606a">Git은 도구이고, GitHub는 그 Git 저장소를 올려 협업하는 서비스다</text>
+
+  <rect x="85" y="170" width="440" height="370" rx="24" fill="#f6f8fa" stroke="#d8dee4" stroke-width="2"/>
+  <rect x="675" y="170" width="440" height="370" rx="24" fill="#f6f8fa" stroke="#d8dee4" stroke-width="2"/>
+
+  <text x="305" y="228" font-size="32" font-family="Arial, sans-serif" font-weight="700" fill="#111111" text-anchor="middle">Git</text>
+  <text x="895" y="228" font-size="32" font-family="Arial, sans-serif" font-weight="700" fill="#111111" text-anchor="middle">GitHub</text>
+
+  <text x="125" y="292" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 버전 관리 도구</text>
+  <text x="125" y="338" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 내 컴퓨터에서 직접 사용 가능</text>
+  <text x="125" y="384" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 변경 이력, 복구, 브랜치 관리</text>
+  <text x="125" y="430" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 프로젝트 변화 과정을 기록</text>
+
+  <text x="715" y="292" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• Git 저장소를 올리는 서비스</text>
+  <text x="715" y="338" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 협업, 공유, 백업에 유리</text>
+  <text x="715" y="384" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• Pull Request, Issue, Actions 제공</text>
+  <text x="715" y="430" font-size="21" font-family="Arial, sans-serif" fill="#1f2328">• 팀 작업을 온라인에서 연결</text>
+
+  <text x="600" y="286" font-size="17" font-family="Arial, sans-serif" font-weight="700" fill="#0969da" text-anchor="middle">Git 저장소를 GitHub에 올려</text>
+  <text x="600" y="310" font-size="17" font-family="Arial, sans-serif" font-weight="700" fill="#0969da" text-anchor="middle">협업과 공유에 활용</text>
+  <line x1="548" y1="350" x2="652" y2="350" stroke="#0969da" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="640,338 670,350 640,362" fill="#0969da"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#ffffff"/>
+
+  <text x="70" y="72" font-size="34" font-family="Arial, sans-serif" font-weight="700" fill="#111111">Git 버전 관리 흐름</text>
+  <text x="70" y="110" font-size="20" font-family="Arial, sans-serif" fill="#57606a">변경 이력을 남겨서, 문제가 생겨도 이전 상태로 안전하게 돌아갈 수 있다</text>
+
+  <line x1="150" y1="300" x2="1050" y2="300" stroke="#d8dee4" stroke-width="10" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="210" cy="300" r="34" fill="#2da44e"/>
+    <text x="210" y="301" font-size="20" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">v1</text>
+    <text x="210" y="362" font-size="19" font-family="Arial, sans-serif" fill="#1f2328" text-anchor="middle">초기 작성</text>
+    <text x="210" y="390" font-size="16" font-family="Arial, sans-serif" fill="#57606a" text-anchor="middle">프로젝트 시작</text>
+  </g>
+
+  <g>
+    <circle cx="470" cy="300" r="34" fill="#0969da"/>
+    <text x="470" y="301" font-size="20" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">v2</text>
+    <text x="470" y="362" font-size="19" font-family="Arial, sans-serif" fill="#1f2328" text-anchor="middle">기능 추가</text>
+    <text x="470" y="390" font-size="16" font-family="Arial, sans-serif" fill="#57606a" text-anchor="middle">새 코드 반영</text>
+  </g>
+
+  <g>
+    <circle cx="730" cy="300" r="34" fill="#bf8700"/>
+    <text x="730" y="301" font-size="20" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">v3</text>
+    <text x="730" y="362" font-size="19" font-family="Arial, sans-serif" fill="#1f2328" text-anchor="middle">버그 수정</text>
+    <text x="730" y="390" font-size="16" font-family="Arial, sans-serif" fill="#57606a" text-anchor="middle">문제 해결</text>
+  </g>
+
+  <g>
+    <circle cx="990" cy="300" r="34" fill="#8250df"/>
+    <text x="990" y="301" font-size="20" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">v4</text>
+    <text x="990" y="362" font-size="19" font-family="Arial, sans-serif" fill="#1f2328" text-anchor="middle">안정화 완료</text>
+    <text x="990" y="390" font-size="16" font-family="Arial, sans-serif" fill="#57606a" text-anchor="middle">배포 준비</text>
+  </g>
+
+  <g>
+    <text x="930" y="165" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#cf222e" text-anchor="middle">문제가 생기면</text>
+    <text x="930" y="191" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#cf222e" text-anchor="middle">이전 기록으로 복구 가능</text>
+    <path d="M 1015 208 C 1062 225, 1060 255, 1018 272" fill="none" stroke="#cf222e" stroke-width="4" stroke-linecap="round"/>
+    <polygon points="1018,260 995,279 1027,284" fill="#cf222e"/>
+  </g>
+</svg>
