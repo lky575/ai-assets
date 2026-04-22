@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">1단계, Git 공식 사이트에서 설치 파일 받기</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">Windows 초보자라면 공식 사이트에서 Git for Windows 설치 파일을 받는 것이 가장 안전하다</text>
+
+  <rect x="120" y="130" width="960" height="270" rx="24" fill="#111827" stroke="#334155" stroke-width="2" />
+  <rect x="160" y="170" width="880" height="52" rx="14" fill="#1f2937" stroke="#475569" stroke-width="1.5" />
+  <text x="190" y="203" font-size="18" fill="#cbd5e1">https://git-scm.com/download/win</text>
+
+  <rect x="200" y="260" width="280" height="90" rx="18" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+  <text x="340" y="304" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">Download for Windows</text>
+  <text x="340" y="332" text-anchor="middle" font-size="15" fill="#93c5fd">설치 파일 다운로드</text>
+
+  <rect x="560" y="260" width="420" height="90" rx="18" fill="#1e293b" stroke="#22c55e" stroke-width="2" />
+  <text x="770" y="296" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">초보자 기준 권장</text>
+  <text x="770" y="324" text-anchor="middle" font-size="15" fill="#cbd5e1">검색 결과 아무 사이트가 아니라</text>
+  <text x="770" y="346" text-anchor="middle" font-size="15" fill="#cbd5e1">공식 사이트에서 직접 내려받기</text>
+
+  <rect x="230" y="430" width="740" height="58" rx="14" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="466" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 기억: Windows는 공식 사이트에서 Git for Windows 설치 파일을 받는 것이 가장 무난하다</text>
+</svg>

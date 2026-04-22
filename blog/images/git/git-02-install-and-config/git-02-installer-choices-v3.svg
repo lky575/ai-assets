@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">2단계, 설치 마법사에서 무엇을 선택할까</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">처음 설치라면 복잡한 옵션을 다 건드리기보다, 중요한 것만 알고 기본값 위주로 진행해도 충분하다</text>
+
+  <rect x="90" y="130" width="320" height="180" rx="22" fill="#111827" stroke="#38bdf8" stroke-width="2" />
+  <text x="250" y="170" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">Select Components</text>
+  <text x="250" y="206" text-anchor="middle" font-size="16" fill="#cbd5e1">대부분 기본값 유지</text>
+  <text x="250" y="234" text-anchor="middle" font-size="15" fill="#94a3b8">아이콘, 탐색기 메뉴 정도는 그대로 두기</text>
+  <text x="250" y="260" text-anchor="middle" font-size="15" fill="#94a3b8">처음엔 불필요한 기능 추가 안 해도 됨</text>
+
+  <rect x="440" y="130" width="320" height="180" rx="22" fill="#111827" stroke="#22c55e" stroke-width="2" />
+  <text x="600" y="170" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">Choosing Editor</text>
+  <text x="600" y="206" text-anchor="middle" font-size="16" fill="#cbd5e1">기본값 그대로 진행 추천</text>
+  <text x="600" y="234" text-anchor="middle" font-size="15" fill="#94a3b8">지금 당장 편집기 선택이 중요하지 않다면</text>
+  <text x="600" y="260" text-anchor="middle" font-size="15" fill="#94a3b8">나중에 바꿔도 됨</text>
+
+  <rect x="790" y="130" width="320" height="180" rx="22" fill="#111827" stroke="#f59e0b" stroke-width="2" />
+  <text x="950" y="170" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">Adjusting PATH</text>
+  <text x="950" y="206" text-anchor="middle" font-size="16" fill="#fef3c7">중요, 추천 옵션 선택</text>
+  <text x="950" y="234" text-anchor="middle" font-size="15" fill="#cbd5e1">Git from the command line and also from</text>
+  <text x="950" y="258" text-anchor="middle" font-size="15" fill="#cbd5e1">3rd-party software</text>
+  <text x="950" y="286" text-anchor="middle" font-size="15" fill="#fca5a5">이 옵션이 가장 무난함</text>
+
+  <rect x="220" y="350" width="320" height="180" rx="22" fill="#111827" stroke="#a78bfa" stroke-width="2" />
+  <text x="380" y="390" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">HTTPS backend</text>
+  <text x="380" y="426" text-anchor="middle" font-size="16" fill="#cbd5e1">기본값 유지 추천</text>
+  <text x="380" y="454" text-anchor="middle" font-size="15" fill="#94a3b8">OpenSSL 기본 선택으로 충분</text>
+
+  <rect x="660" y="350" width="320" height="180" rx="22" fill="#111827" stroke="#ef4444" stroke-width="2" />
+  <text x="820" y="390" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">Line Ending</text>
+  <text x="820" y="426" text-anchor="middle" font-size="16" fill="#cbd5e1">기본 권장값 유지</text>
+  <text x="820" y="454" text-anchor="middle" font-size="15" fill="#94a3b8">Checkout Windows-style, commit Unix-style</text>
+  <text x="820" y="480" text-anchor="middle" font-size="15" fill="#94a3b8">처음엔 이 선택이 가장 안전함</text>
+
+  <rect x="190" y="560" width="820" height="40" rx="12" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="586" text-anchor="middle" font-size="16" fill="#e5e7eb">핵심 기억: 초보자라면 대부분 기본값 유지, PATH 옵션만 특히 신경 쓰면 된다</text>
+</svg>
