@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">Git 버전 관리 흐름</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">변경 이력을 남기면 문제 발생 시 이전 상태로 돌아가기 쉬워진다</text>
+
+  <rect x="90" y="130" width="1020" height="250" rx="24" fill="#111827" stroke="#334155" stroke-width="2" />
+  <line x1="170" y1="255" x2="1030" y2="255" stroke="#475569" stroke-width="8" stroke-linecap="round" />
+
+  <circle cx="220" cy="255" r="34" fill="#22c55e" />
+  <text x="220" y="260" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">v1</text>
+  <text x="220" y="320" text-anchor="middle" font-size="18" fill="#e5e7eb">초기 작성</text>
+  <text x="220" y="346" text-anchor="middle" font-size="15" fill="#94a3b8">프로젝트 시작</text>
+
+  <circle cx="480" cy="255" r="34" fill="#38bdf8" />
+  <text x="480" y="260" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">v2</text>
+  <text x="480" y="320" text-anchor="middle" font-size="18" fill="#e5e7eb">기능 추가</text>
+  <text x="480" y="346" text-anchor="middle" font-size="15" fill="#94a3b8">새 코드 반영</text>
+
+  <circle cx="740" cy="255" r="34" fill="#f59e0b" />
+  <text x="740" y="260" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">v3</text>
+  <text x="740" y="320" text-anchor="middle" font-size="18" fill="#e5e7eb">버그 수정</text>
+  <text x="740" y="346" text-anchor="middle" font-size="15" fill="#94a3b8">문제 해결</text>
+
+  <circle cx="1000" cy="255" r="34" fill="#a78bfa" />
+  <text x="1000" y="260" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">v4</text>
+  <text x="1000" y="320" text-anchor="middle" font-size="18" fill="#e5e7eb">안정화 완료</text>
+  <text x="1000" y="346" text-anchor="middle" font-size="15" fill="#94a3b8">배포 준비</text>
+
+  <path d="M 1010 150 C 1070 160, 1080 215, 1025 230" fill="none" stroke="#f87171" stroke-width="4" stroke-linecap="round" />
+  <polygon points="1026,220 1004,236 1033,244" fill="#f87171" />
+  <text x="930" y="150" text-anchor="middle" font-size="16" font-weight="700" fill="#fecaca">문제가 생기면</text>
+  <text x="930" y="176" text-anchor="middle" font-size="16" font-weight="700" fill="#fecaca">이전 기록으로 복구 가능</text>
+
+  <rect x="220" y="420" width="760" height="58" rx="14" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="456" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 기억: Git은 프로젝트의 각 시점을 버전처럼 남기고 다시 돌아갈 수 있게 해준다</text>
+</svg>
