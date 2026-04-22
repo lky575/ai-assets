@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">git clone 기본 흐름 요약</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">원격 저장소를 내 컴퓨터로 가져오면 바로 작업 가능한 Git 프로젝트가 된다</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#60a5fa" />
+    </marker>
+  </defs>
+
+  <rect x="110" y="130" width="280" height="240" rx="20" fill="#111827" stroke="#34d399" stroke-width="2" />
+  <text x="250" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">원격 저장소</text>
+  <text x="250" y="212" text-anchor="middle" font-size="16" fill="#cbd5e1">GitHub 등에 있는</text>
+  <text x="250" y="238" text-anchor="middle" font-size="16" fill="#cbd5e1">기존 Git 프로젝트</text>
+  <text x="250" y="288" text-anchor="middle" font-size="15" fill="#86efac">파일 + 기록 + 브랜치 정보</text>
+
+  <rect x="460" y="130" width="280" height="240" rx="20" fill="#111827" stroke="#38bdf8" stroke-width="2" />
+  <text x="600" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">git clone</text>
+  <text x="600" y="212" text-anchor="middle" font-size="16" fill="#cbd5e1">저장소 주소로</text>
+  <text x="600" y="238" text-anchor="middle" font-size="16" fill="#cbd5e1">전체 프로젝트 복제</text>
+  <text x="600" y="288" text-anchor="middle" font-size="15" fill="#93c5fd">ZIP 다운로드와 다름</text>
+
+  <rect x="810" y="130" width="280" height="240" rx="20" fill="#111827" stroke="#f59e0b" stroke-width="2" />
+  <text x="950" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">로컬 저장소</text>
+  <text x="950" y="212" text-anchor="middle" font-size="16" fill="#cbd5e1">내 컴퓨터에 복제된</text>
+  <text x="950" y="238" text-anchor="middle" font-size="16" fill="#cbd5e1">작업 가능한 Git 프로젝트</text>
+  <text x="950" y="288" text-anchor="middle" font-size="15" fill="#fcd34d">status, log, pull, push 가능</text>
+
+  <line x1="390" y1="250" x2="460" y2="250" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)" />
+  <line x1="740" y1="250" x2="810" y2="250" stroke="#60a5fa" stroke-width="5" marker-end="url(#arrow)" />
+
+  <rect x="250" y="416" width="700" height="60" rx="14" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="454" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 기억: clone은 파일만 받는 것이 아니라 Git 저장소 자체를 가져오는 것이다</text>
+</svg>
