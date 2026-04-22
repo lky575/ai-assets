@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">Git은 작업을 분리해서 진행할 수 있다</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">안정적인 흐름은 유지하고, 새 기능은 별도 브랜치에서 작업한 뒤 다시 합칠 수 있다</text>
+
+  <rect x="100" y="130" width="1000" height="250" rx="24" fill="#111827" stroke="#334155" stroke-width="2" />
+
+  <line x1="170" y1="285" x2="1030" y2="285" stroke="#94a3b8" stroke-width="6" stroke-linecap="round" />
+
+  <path d="M 440 285 C 500 205, 580 165, 640 165 C 730 165, 800 210, 840 285" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round" />
+  <circle cx="640" cy="165" r="12" fill="#38bdf8" />
+
+  <circle cx="240" cy="285" r="12" fill="#e5e7eb" />
+  <circle cx="440" cy="285" r="12" fill="#e5e7eb" />
+  <circle cx="640" cy="285" r="12" fill="#e5e7eb" />
+  <circle cx="840" cy="285" r="12" fill="#e5e7eb" />
+
+  <text x="180" y="332" font-size="20" font-weight="700" fill="#e5e7eb">main</text>
+  <text x="240" y="252" text-anchor="middle" font-size="15" fill="#94a3b8">안정 흐름</text>
+  <text x="840" y="315" text-anchor="middle" font-size="15" fill="#94a3b8">검토 후 병합</text>
+
+  <text x="640" y="132" text-anchor="middle" font-size="20" font-weight="700" fill="#bfdbfe">feature branch</text>
+  <text x="640" y="225" text-anchor="middle" font-size="15" fill="#bfdbfe">새 기능 개발</text>
+
+  <line x1="905" y1="205" x2="960" y2="205" stroke="#60a5fa" stroke-width="5" stroke-linecap="round" />
+  <path d="M960 197 L978 205 L960 213 Z" fill="#60a5fa" />
+  <circle cx="905" cy="205" r="5" fill="#60a5fa" />
+  <text x="1010" y="196" font-size="15" fill="#cbd5e1">다시</text>
+  <text x="1010" y="216" font-size="15" fill="#cbd5e1">main에 반영</text>
+
+  <rect x="250" y="420" width="700" height="58" rx="14" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="456" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 기억: Git 브랜치는 기존 흐름을 지키면서 새 작업을 안전하게 분리하게 해준다</text>
+</svg>
