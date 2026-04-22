@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580">
+  <rect width="1200" height="580" fill="#0f172a" />
+  <text x="600" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">Git 입문 시리즈 전체 흐름 정리</text>
+  <text x="600" y="90" text-anchor="middle" font-size="16" fill="#94a3b8">기본 개념부터 브랜치, 원격 저장소, 실전 관리까지 이어지면 Git 입문 흐름이 하나의 그림으로 정리된다</text>
+  <rect x="70" y="170" width="250" height="220" rx="22" fill="#111827" stroke="#34d399" stroke-width="2" />
+  <text x="195" y="214" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">기본 개념</text>
+  <text x="195" y="252" text-anchor="middle" font-size="16" fill="#cbd5e1">저장소, 커밋, 상태</text>
+  <text x="195" y="292" text-anchor="middle" font-size="16" fill="#86efac">Git 감각 시작</text>
+  <rect x="355" y="170" width="250" height="220" rx="22" fill="#111827" stroke="#38bdf8" stroke-width="2" />
+  <text x="480" y="214" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">브랜치</text>
+  <text x="480" y="252" text-anchor="middle" font-size="16" fill="#cbd5e1">분리와 merge</text>
+  <text x="480" y="292" text-anchor="middle" font-size="16" fill="#93c5fd">안전한 작업 흐름</text>
+  <rect x="640" y="170" width="250" height="220" rx="22" fill="#111827" stroke="#f59e0b" stroke-width="2" />
+  <text x="765" y="214" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">원격 저장소</text>
+  <text x="765" y="252" text-anchor="middle" font-size="16" fill="#cbd5e1">GitHub, push, pull</text>
+  <text x="765" y="292" text-anchor="middle" font-size="16" fill="#fcd34d">외부와 연결</text>
+  <rect x="925" y="170" width="205" height="220" rx="22" fill="#111827" stroke="#a78bfa" stroke-width="2" />
+  <text x="1027" y="214" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">실전 습관</text>
+  <text x="1027" y="252" text-anchor="middle" font-size="16" fill="#cbd5e1">diff, restore</text>
+  <text x="1027" y="284" text-anchor="middle" font-size="16" fill="#c4b5fd">commit, conflict</text>
+  <line x1="320" y1="280" x2="337" y2="280" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" /><circle cx="320" cy="280" r="7" fill="#60a5fa" /><polygon points="355,280 337,271 337,289" fill="#60a5fa" />
+  <line x1="605" y1="280" x2="622" y2="280" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" /><circle cx="605" cy="280" r="7" fill="#60a5fa" /><polygon points="640,280 622,271 622,289" fill="#60a5fa" />
+  <line x1="890" y1="280" x2="907" y2="280" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" /><circle cx="890" cy="280" r="7" fill="#60a5fa" /><polygon points="925,280 907,271 907,289" fill="#60a5fa" />
+  <rect x="120" y="465" width="960" height="82" rx="16" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="499" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 기억: Git 입문은 명령어 몇 개를 외우는 과정이 아니라</text>
+  <text x="600" y="527" text-anchor="middle" font-size="18" fill="#e5e7eb">기록, 분리, 공유, 정리 흐름을 하나의 작업 습관으로 익히는 과정이다</text>
+</svg>
