@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#0f172a" />
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#e5e7eb">Git branch 기본 흐름 요약</text>
+  <text x="600" y="84" text-anchor="middle" font-size="16" fill="#94a3b8">기본 줄기에서 새 작업 줄기를 분리하고, 필요하면 다시 합친다</text>
+
+  <line x1="170" y1="220" x2="1030" y2="220" stroke="#94a3b8" stroke-width="6" stroke-linecap="round" />
+  <text x="210" y="255" text-anchor="middle" font-size="18" font-weight="700" fill="#e5e7eb">main</text>
+
+  <circle cx="420" cy="220" r="12" fill="#60a5fa" />
+  <path d="M420 220 C500 220, 540 180, 620 140" fill="none" stroke="#34d399" stroke-width="6" stroke-linecap="round" />
+  <circle cx="620" cy="140" r="12" fill="#34d399" />
+  <line x1="620" y1="140" x2="900" y2="140" stroke="#34d399" stroke-width="6" stroke-linecap="round" />
+  <text x="780" y="120" text-anchor="middle" font-size="18" font-weight="700" fill="#d1fae5">feature branch</text>
+
+  <rect x="110" y="300" width="980" height="62" rx="14" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="600" y="338" text-anchor="middle" font-size="18" fill="#e5e7eb">핵심 흐름: main 유지 → 새 브랜치 분리 → 별도 작업 → 검토 후 다시 합치기</text>
+
+  <text x="420" y="190" text-anchor="middle" font-size="15" fill="#bfdbfe">분기 시작</text>
+  <text x="930" y="175" text-anchor="middle" font-size="15" fill="#d1fae5">새 기능 작업선</text>
+</svg>
